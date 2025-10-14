@@ -1,0 +1,18 @@
+# Binaries
+runstats
+
+# Git
+.git
+.github
+
+# Documentation
+README.md
+*.md
+
+# Scripts
+demo.sh
+build.sh
+
+# IDE
+.vscode
+.idea
